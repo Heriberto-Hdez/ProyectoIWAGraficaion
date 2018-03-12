@@ -1,0 +1,44 @@
+table td {
+  text-align: center;
+  padding: 5px;
+  height: 70px;
+}
+
+/*Grafica lineal*/
+.line {
+  fill: none;
+  stroke-width: 4px;
+  
+}
+
+/*Grafica circular*/
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.arc2 text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc2 path {
+  stroke: #fff;
+}
+
+/*justificar*/
+
+.parrafo { 
+text-align: justify;
+margin: 40px;
+
+ }
+
+.tituloGrafica{
+	color: #5B5B5B;
+	font-size: 13px;
+}

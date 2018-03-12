@@ -1,0 +1,77 @@
+{
+   "crimen": [
+      {
+         "Date": 1998,
+         "noviolento": "5584",
+         "violento": "1118"
+      },
+      {
+         "Date": 1999,
+         "noviolento": "4813",
+         "violento": "1142"
+      },
+      {
+         "Date": 2000,
+         "noviolento": "4596",
+         "violento": "1290"
+      },
+      {
+         "Date": 2001,
+         "noviolento": "4654",
+         "violento": "1300"
+      },
+      {
+         "Date": 2002,
+         "noviolento": "4610",
+         "violento": "1210"
+      },
+      {
+         "Date": 2003,
+         "noviolento": "4379",
+         "violento": "1106"
+      },
+      {
+         "Date": 2004,
+         "noviolento": "3983",
+         "violento": "1037"
+      },
+      {
+         "Date": 2005,
+         "noviolento": "3801",
+         "violento": "1034"
+      },
+      {
+         "Date": 2006,
+         "noviolento": "3921",
+         "violento": "1054"
+      },
+      {
+         "Date": 2007,
+         "noviolento": "3679",
+         "violento": "1046"
+      },
+      {
+         "Date": 2008,
+         "noviolento": "3481",
+         "violento": "987"
+      },
+      {
+         "Date": 2009,
+         "noviolento": "3309",
+         "violento": "940"
+      },
+      {
+         "Date": 2010,
+         "noviolento": "3113",
+         "violento": "906"
+      },
+      {
+         "Date": 2011,
+         "noviolento": "2984",
+         "violento": "876"
+      }
+     
+      
+      
+   ]
+}

@@ -1,0 +1,44 @@
+[
+ {"ciudad":"1999, 22",
+  "cantidad": 22
+ },
+ {"ciudad":"1999, 20",
+  "cantidad": 20
+ },
+ {"ciudad":"2000, 19",
+  "cantidad": 19
+ },
+ {"ciudad":"2001, 25",
+  "cantidad": 25
+ },
+ {"ciudad":"2002, 27",
+  "cantidad": 27
+ },
+ {"ciudad":"2003, 22",
+  "cantidad": 22
+ },
+  {"ciudad":"2004, 34",
+  "cantidad": 34
+ },
+ {"ciudad":"2005, 44",
+  "cantidad": 44
+ },
+ {"ciudad":"2006, 39",
+  "cantidad": 39
+ },
+ {"ciudad":"2007, 36",
+  "cantidad": 36
+ },
+  {"ciudad":"2008, 39",
+  "cantidad": 39
+ },
+  {"ciudad":"2009, 30",
+  "cantidad": 43
+ },
+ {"ciudad":"2010, 32",
+  "cantidad": 32
+ },
+ {"ciudad":"2011, 50",
+  "cantidad": 50
+ }
+]
