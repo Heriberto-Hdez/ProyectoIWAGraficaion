@@ -9,7 +9,7 @@ Pasos
 
 1. Abrir NetBeans IDE, para el desarrollo de este proyecto ocupé la versión 8.2 y JDK 1.8
 
-1. Estando en el programa abrir el proyecto desde la ubicación donde se descomprimió y esperar a que cargue todos los archivos del proyecto.
+1. Una vez abierto NetBeans, dirigirse a la opción "File" y seleccionar "abrir proyecto" buscar desde la ubicación donde se descomprimió, seleccionarlo y abrirlo, esperar a que cargue todos los archivos del proyecto.
 
 1. En prestaciones de NetBeans en la opción de servidores, seleccionar GlassFish Server 4.1.1, dar click derecho, seleccionar "start"  y esparar hasta que se inicie
 
@@ -17,4 +17,4 @@ Pasos
 
 1. Esperar a que el IDE ejecute la Aplicación Web en el navegador
 
-1. Haga uso de la Aplicación Web.
+1. Haga uso de la Aplicación Web
